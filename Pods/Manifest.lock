@@ -1,0 +1,10 @@
+PODS:
+  - SMSwipeableTabView (0.1.0)
+
+DEPENDENCIES:
+  - SMSwipeableTabView
+
+SPEC CHECKSUMS:
+  SMSwipeableTabView: d6889807d758cccdc34a8a0de586899d4502c9f5
+
+COCOAPODS: 0.39.0
